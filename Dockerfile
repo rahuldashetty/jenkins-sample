@@ -1,4 +1,4 @@
-FROM hshar/webapp
+FROM rahuldasheety/apache-installed-image
 
 RUN rm /var/www/html/*
 
